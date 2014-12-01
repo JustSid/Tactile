@@ -1,0 +1,17 @@
+{
+	"uuid": "08668f15-507b-446b-84e2-b88447fe8c32",
+	"shortName": "Tactile",
+	"longName": "Tactile",
+	"companyName": "Uberpixel",
+	"versionCode": 1,
+	"versionLabel": "1.0",
+	"watchapp": {
+		"watchface": true
+	},
+	"appKeys": {
+		"dummy": 0
+	},
+	"resources": {
+		"media": []
+	}
+}
